@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LeapYearShould" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-06-28T13:23:02" hostname="Damians-MacBook-Pro.local" time="0.077">
+  <properties/>
+  <testcase name="be_LeapYear_When_Yeas_Is_Divisible_By_400" classname="LeapYearShould" time="0.071"/>
+  <testcase name="be_Not_LeapYear_When_Year_Is_Not_Divisible_By_Four" classname="LeapYearShould" time="0.0"/>
+  <testcase name="be_LeapYear_When_Year_Is_Divisible_By_Four" classname="LeapYearShould" time="0.001"/>
+  <testcase name="is_Not_A_LeapYear_When_Year_Is_Divisible_By_4_And_100_But_Not_Divisible_By_400" classname="LeapYearShould" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
